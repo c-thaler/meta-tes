@@ -108,7 +108,7 @@
 			pixel_clock: oscillator {
 				compatible = "fixed-clock";
 				#clock-cells = <0>;
-				clock-frequency = <154000000>;
+				clock-frequency = <74250000>;
 			};
 		
 			lvds-encoder {
